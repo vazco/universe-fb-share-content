@@ -1,5 +1,5 @@
 <h1 align="center">
-    <a href="https://github.com/vazco">vazco</a>/Universe FB Share Content
+    <a href="https://github.com/vazco">vazco</a>/Universe Fb Share Content
 </h1>
 
 &nbsp;
@@ -20,4 +20,4 @@ sharePost('title', 'description', 'http://link');
 
 <img src="https://vazco.eu/banner.png" align="right">
 
-**Like every package maintained by [Vazco](https://vazco.eu/), Universe FB Share Content is [MIT licensed](https://github.com/vazco/uniforms/blob/master/LICENSE).**
+**Like every package maintained by [Vazco](https://vazco.eu/), Universe Fb Share Content is [MIT licensed](https://github.com/vazco/uniforms/blob/master/LICENSE).**
